@@ -1,0 +1,4 @@
+Geomathry
+=========
+
+Geometric math library.
